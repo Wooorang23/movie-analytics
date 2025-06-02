@@ -1,1 +1,16 @@
 venv/
+ENV/
+env/
+.venv/
+
+__pycache__/
+*.py[cod]
+
+.ipynb_checkpoints
+
+.jupyter/
+*.nbconvert.ipynb
+
+.vscode/
+.idea/
+*.swp
